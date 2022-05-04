@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**This** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[**This**](https://github.com/iplai/iplai) is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
